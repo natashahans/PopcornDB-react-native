@@ -1,6 +1,9 @@
 # 🎬 PopcornDB
 
-PopcornDB is a React Native movie discovery app built with Expo. It allows users to browse trending content, search movies, view details, and save items to a personal watchlist using live data from the TMDB API.
+PopcornDB is a React Native movie discovery app built with Expo.  
+It allows users to browse trending content, search movies, view details, and save items to a personal watchlist using live data from the TMDB API.
+
+---
 
 ## 🚀 Live Preview
 
@@ -12,11 +15,19 @@ PopcornDB is a React Native movie discovery app built with Expo. It allows users
 
 ## 📸 Screenshots
 
-![Home](screenshots/home.png)
-![Profile](screenshots/profile.png)
-![Search](screenshots/search.png)
-![Watchlist](screenshots/watchlist.png)
-![Welcome](screenshots/welcome.png)
+<p align="center">
+  <img src="screenshots/home.png" width="45%" />
+  <img src="screenshots/search.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/watchlist.png" width="45%" />
+  <img src="screenshots/profile.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/welcome.png" width="45%" />
+</p>
 
 ---
 
