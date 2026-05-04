@@ -15,18 +15,15 @@ It allows users to browse trending content, search movies, view details, and sav
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="45%" />
-  <img src="screenshots/search.png" width="45%" />
+<p align="left">
+  <img src="screenshots/home.png" width="32%" />
+  <img src="screenshots/search.png" width="32%" />
+  <img src="screenshots/profile.png" width="32%" />
 </p>
 
-<p align="center">
-  <img src="screenshots/watchlist.png" width="45%" />
-  <img src="screenshots/profile.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/welcome.png" width="45%" />
+<p align="left">
+  <img src="screenshots/watchlist.png" width="32%" />
+  <img src="screenshots/welcome.png" width="32%" />
 </p>
 
 ---
