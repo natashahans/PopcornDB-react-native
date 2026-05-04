@@ -9,11 +9,9 @@ It allows users to browse trending content, search movies, view details, and sav
 
 👉 [Open in Expo Snack](https://snack.expo.dev/@natashahans/popcorndb-final-app-25002644)
 
-> For the best experience, open on a mobile device using Expo Go.
-
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 <p align="center">
   <img src="screenshots/screenshot.png" width="100%" />
