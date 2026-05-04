@@ -15,15 +15,8 @@ It allows users to browse trending content, search movies, view details, and sav
 
 ## 📸 Screenshots
 
-<p align="left">
-  <img src="screenshots/home.png" width="32%" />
-  <img src="screenshots/search.png" width="32%" />
-  <img src="screenshots/profile.png" width="32%" />
-</p>
-
-<p align="left">
-  <img src="screenshots/watchlist.png" width="32%" />
-  <img src="screenshots/welcome.png" width="32%" />
+<p align="center">
+  <img src="screenshots/screenshot.png" width="70%" />
 </p>
 
 ---
