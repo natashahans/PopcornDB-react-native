@@ -16,7 +16,7 @@ It allows users to browse trending content, search movies, view details, and sav
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="screenshots/screenshot.png" width="70%" />
+  <img src="screenshots/screenshot.png" width="95%" />
 </p>
 
 ---
